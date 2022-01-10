@@ -1,0 +1,16 @@
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ExeciciosEnum.exe
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ExeciciosEnum.deps.json
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ExeciciosEnum.runtimeconfig.json
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ExeciciosEnum.runtimeconfig.dev.json
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ExeciciosEnum.dll
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ref\ExeciciosEnum.dll
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\bin\Debug\net5.0\ExeciciosEnum.pdb
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.csproj.AssemblyReference.cache
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.AssemblyInfoInputs.cache
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.AssemblyInfo.cs
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.csproj.CoreCompileInputs.cache
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.dll
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ref\ExeciciosEnum.dll
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.pdb
+C:\Users\windserver\Desktop\CURSO DE LOGICA DE PROGRAMAÇÂO\ExeciciosEnum\ExeciciosEnum\obj\Debug\net5.0\ExeciciosEnum.genruntimeconfig.cache
